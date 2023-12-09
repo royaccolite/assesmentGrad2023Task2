@@ -54,4 +54,3 @@ Child 49: Monster{eyesColor='blue', featherColor='yellow', magicalAbility='Invis
 Child 50: Monster{eyesColor='blue', featherColor='blue', magicalAbility='Flying', size=80, strength=68, durability=65, weakness=40, agression=64}
 Child 51: Monster{eyesColor='blue', featherColor='yellow', magicalAbility='Invisibility', size=80, strength=92, durability=65, weakness=40, agression=86}
 Child 52: Monster{eyesColor='brown', featherColor='blue', magicalAbility='Flying', size=80, strength=92, durability=70, weakness=40, agression=64}
-Child 53: Monster{eyesColor='blue', featherColor='blue', magicalAbili
